@@ -1,0 +1,25 @@
+.item {
+    display: flex;
+    align-items: flex-start;
+    width: 400px;
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+     margin-bottom: 8px;
+}
+
+.status {
+    margin-top: 19px;
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background-color: green;
+}
+
+.disabled {
+    background-color: red;
+}
+
+.list {
+    padding-left: 0px;
+}

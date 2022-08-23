@@ -1,0 +1,19 @@
+.stats {
+   list-style-type: none; 
+   padding-left: 0px;
+   display: flex;
+   width: 100%;
+}
+
+.item {
+ background-color: rgb(231, 224, 224);
+  width: 100px;
+   height: 80px;
+     display: flex;
+    flex-direction:column;
+   border: 1px solid
+}
+
+.label {
+    margin-top: 15px;
+}

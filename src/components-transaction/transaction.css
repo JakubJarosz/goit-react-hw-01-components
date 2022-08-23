@@ -1,0 +1,24 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: rgb(180, 180, 224);
+  border: 1px solid;
+  width: 100px;
+}
+
+table {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+th{
+    width: 200px;
+    height: 50px;
+    color: white
+}
+
+tr:nth-child(2n) {
+    background-color: rgb(211, 195, 195);
+}

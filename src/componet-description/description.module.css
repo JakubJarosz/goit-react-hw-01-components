@@ -1,0 +1,21 @@
+.avatar {
+    margin-top: 30px;
+    border-radius: 50%;
+    width: 150px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+
+.name {
+    font-size: 20px;
+    font-weight: 600;
+}
+.tag {
+    font-size: 15px;
+    color:#A9A9A9
+}
+
+.location {
+    font-size: 15px;
+    color:#A9A9A9
+}
